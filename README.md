@@ -29,4 +29,3 @@ example body:
 ### /users/{id}
 
 - GET
-
